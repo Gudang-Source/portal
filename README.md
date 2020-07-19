@@ -28,4 +28,54 @@ Dalam pengembangan sistem portal ini, pengembang menggunakan Bahasa Pemrograman 
     </tbody>
 </table>
 
+<h3>Fitur Portal Akademik</h3>
+<p>Portal Akademik Menyediakan beberapa level pengguna dengan masing - masing fasilitasnya, rincian dapat dilihat sebagai berikut : </p>
+<ol>
+    <li>Operator Portal
+        <ul>
+            <li> Dalam Pengembangan </li>
+            
+        </ul>
+    </li>
+   <li>Bid. Tata Usaha
+        <ul>
+            <li> Dalam Pengembangan </li>
+           
+        </ul>
+    </li>
+     <li>Bid. Akademik
+        <ul>
+            <li> Dalam Pengembangan </li>
+            
+        </ul>
+    </li>
+    <li>Bid. Kesiswaan
+        <ul>
+            <li> Dalam Pengembangan </li>
+            
+        </ul>
+    </li>
+     <li>Bid. Keuangan
+        <ul>
+            <li> Dalam Pengembangan </li>
+            
+        </ul>
+    </li>
+    <li>Tenaga Pendidik - Wali Kelas
+        <ul>
+            <li> Dalam Pengembangan </li>
+            
+        </ul>
+    </li>
+    <li>Peserta Didik
+        <ul>
+            <li> Dalam Pengembangan </li>
+            
+        </ul>
+    </li>
+</ol>
+
+<h3>Donasi Pengembangan</h3>
+<p>Apabila ada yang berminat atau Berdonasi silahkan hubungi saya melalui email berikut : mabes.develover@gmail.com</p>
+
 <small>Depeloper : @ervinfikotm at mabes.develover@gmail.com</small>
