@@ -1,5 +1,5 @@
 <h1> PORTAL AKADEMIK V.1.0 (Beta)</h1>
-<small>Depeloper : @ervinfikotm at mabes.develover@gmail.com</small>
+
     <hr>
     <div>
         <p>Portal Akademik adalah aplikasi berbentuk Website untuk mengelola Kegiatan Akademik di sekolah,
@@ -10,3 +10,7 @@
             Limitless Untuk Pengelola.
         </p>
     </div>
+
+
+
+<small>Depeloper : @ervinfikotm at mabes.develover@gmail.com</small>
